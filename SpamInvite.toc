@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: Spam Invite
+## Version: v1.0.0
+## Author: Arwic
+## Notes: Invites anyone who says "1" in general chat
+## Dependencies: ace3
+
+SpamInvite.lua
